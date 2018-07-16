@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "638541329240",
+    "firebase_url": "https://codequiz-7ab7b.firebaseio.com",
+    "project_id": "codequiz-7ab7b",
+    "storage_bucket": "codequiz-7ab7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638541329240:android:0e44535fe9a3a97c",
+        "android_client_info": {
+          "package_name": "com.example.apple.codequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638541329240-bojoh5miu226ucnc84cl5tos92rm4iik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apple.codequiz",
+            "certificate_hash": "210ced819a916cab8c44fe3b7daf937f4a20d6a5"
+          }
+        },
+        {
+          "client_id": "638541329240-b66bvkfhp5ceet3r6tpl2v0glslm7k02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVbABxbSj_iyN6OJ7OY-jrAgvmaaRp1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638541329240-b66bvkfhp5ceet3r6tpl2v0glslm7k02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

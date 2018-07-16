@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CodeQuiz</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score">Score</string>
+    <string name="remember_me">Remember me</string>
+    <string name="score_label">Score:</string>
+    <string name="ranking">Ranking</string>
+    <string name="home">Home</string>
+</resources>

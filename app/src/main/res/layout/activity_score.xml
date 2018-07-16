@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    tools:context=".ScoreActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="75dp"
+
+        android:fontFamily="@font/roboto_black"
+        android:text="@string/score"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="72sp" />
+    <TextView
+        android:id="@+id/score_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textAlignment="center"
+        android:textSize="45sp"
+        android:textColor="@android:color/white"
+
+        android:text="100"/>
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/back_home_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:layout_marginTop="15dp"
+
+        app:fabCustomSize="115dp"
+        app:maxImageSize="85dp"
+        android:src="@drawable/ic_home"/>
+
+
+</LinearLayout>
